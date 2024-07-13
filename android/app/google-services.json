@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41832745764",
+    "project_id": "chatforum-eecdb",
+    "storage_bucket": "chatforum-eecdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41832745764:android:524cf646934ada6a5801b1",
+        "android_client_info": {
+          "package_name": "com.example.news_pulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNYWqyCWHcohVi5ClOYl72n1q-ZERsvvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
